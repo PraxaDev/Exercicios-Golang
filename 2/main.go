@@ -1,0 +1,2 @@
+package main
+// Descrição: Crie um programa em Python que solicita ao usuário que insira dois números, converte essas entradas para o tipo float (para lidar com números decimais), realiza a soma desses números e exibe o resultado. Este exercício introduz conceitos básicos como entrada de dados, conversão de tipos e operações aritméticas simples.
